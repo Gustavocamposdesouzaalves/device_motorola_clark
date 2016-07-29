@@ -1,6 +1,6 @@
 [
   {
-    "remote: "github",
+    "remote": "github",
     "repository": "AICP/kernel_motorola_msm8992",
     "target_path": "kernel/motorola/msm8992",
     "revision":      "mm6.0"
