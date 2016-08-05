@@ -19,3 +19,7 @@ PRODUCT_DEVICE := clark
 PRODUCT_MODEL := XT1575
 PRODUCT_MANUFACTURER := motorola
 PRODUCT_GMS_CLIENTID_BASE := android-motorola
+
+# CyanogenMod Device Maintainer
+PRODUCT_BUILD_PROP_OVERRYDES += \
+        DEVICE_MAINTAINERS="Gustavo Campos (BIRDMAN)
