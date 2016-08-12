@@ -7,9 +7,9 @@
   },
   {
     "remote":      "github",
-    "repository": "AICP/proprietary_vendor_motorola",
-    "target_path": "vendor/motorola",
-    "branch":      "mm6.0"
+    "repository": "TeamOrion/vendor_orion",
+    "target_path": "vendor/orion",
+    "branch":      "6.0.1"
   },
   {
     "remote":      "github",
