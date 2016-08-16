@@ -1,0 +1,32 @@
+[
+  {
+    "remote": "github",
+    "repository": "AICP/kernel_motorola_msm8992",
+    "target_path": "kernel/motorola/msm8992",
+    "revision":      "mm6.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_device_motorola_qcom-common",
+    "target_path": "device/motorola/qcom-common",
+    "revision": "cm-13.0"
+  },
+  {
+    "remote": "github",
+    "repository": "BlissRoms/platform_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision": "mm6.0"
+  },
+  {
+    "remote": "github",
+    "repository": "AICP/proprietary_vendor_motorola",
+    "target_path": "vendor/motorola",
+    "revision":      "mm6.0"
+  },
+  {
+    "remote": "github",
+    "repository": "CyanogenMod/android_hardware_sony_thermanager",
+    "target_path": "hardware/sony/thermanager",
+    "revision":      "cm-13.0"
+  }
+]
